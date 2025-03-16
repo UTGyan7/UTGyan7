@@ -1,8 +1,8 @@
 # **Hello!👋**
-> I'm **Utkarsh Gyan**
-> Enthusiastic **14 y/o**
-> Passionate about **Coding** and **AI**
-> Currently working on [CloudScissors](cloudscisors.streamlit.app)
+- I'm **Utkarsh Gyan**
+- Enthusiastic **14 y/o**
+- Passionate about **Coding** and **AI**
+- Currently working on [CloudScissors](cloudscisors.streamlit.app)
 ## 🌟 About Me
 
 - Keen interest in **Coding** and **Artificial Intelligence**
