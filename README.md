@@ -1,10 +1,8 @@
-<aside>
-**Hello!👋**
-- I'm **Utkarsh Gyan**
-- Enthusiastic **Class 9** student
-- Passionate about **Coding** and **AI**
-</aside>
-
+# **Hello!👋**
+> - I'm **Utkarsh Gyan**
+> - Enthusiastic **14 y/o**
+> - Passionate about **Coding** and **AI**
+> - Currently working on [CloudScissors](cloudscisors.streamlit.app)
 ## 🌟 About Me
 
 - Keen interest in **Coding** and **Artificial Intelligence**
@@ -19,10 +17,6 @@
 - **Web Scrapping:** Very basic knowledge and experience
 - **Java**: Introductory understanding
 - Quick learner and **adaptable to new technologies**
-
-## 🎓 Education
-
-- Current: **Class 9** Student
 
 ## 🚀 Future Goals
 
@@ -108,7 +102,7 @@
     
 - [Rock Paper Scissors Game](https://github.com/UTGyan7/Rock-Paper-Scissors/blob/main/rock%20paper%20scissors%20game.py)
     
-- [AI Chatbot (Cloud Scissors)](cloudscisors.streamlit.app)
+- [AI Chatbot (Cloud Scissors)](cloudscisors.streamlit.app) : A Cohere API powered AI Chatbot
     
 ## 📚 Courses attended
 
