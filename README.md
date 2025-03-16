@@ -1,6 +1,5 @@
 <aside>
-#Hello!👋
-
+**Hello!👋**
 - I'm **Utkarsh Gyan**
 - Enthusiastic **Class 9** student
 - Passionate about **Coding** and **AI**
