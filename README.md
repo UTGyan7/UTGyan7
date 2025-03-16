@@ -20,6 +20,7 @@
 
 ## 🚀 Future Goals
 
+- Enhance [CloudScissors](cloudscisors.streamlit.app)
 - Advance skills in **Python and Java programming**
 - Explore **Artificial Intelligence, Machine Learning** and **Data Science**
 - Gain knowledge about **Web Scrapping**
