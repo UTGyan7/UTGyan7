@@ -1,8 +1,8 @@
 # **Hello!👋** It's **Utkarsh** here
-- I'm **Utkarsh Gyan**
-- Enthusiastic **14 y/o**
-- Passionate about **Coding** and **AI**
-- Currently working on [CloudScissors](cloudscisors.streamlit.app)
+> - I'm **Utkarsh Gyan**
+> - Enthusiastic **14 y/o**
+> - Passionate about **Coding** and **AI**
+> - Currently working on [CloudScissors](https://cloudscisors.streamlit.app)
 ## 🌟 About Me
 
 - Keen interest in **Coding** and **Artificial Intelligence**
@@ -20,7 +20,7 @@
 
 ## 🚀 Future Goals
 
-- Enhance [CloudScissors](cloudscisors.streamlit.app)
+- Enhance [CloudScissors](https://cloudscisors.streamlit.app)
 - Advance skills in **Python and Java programming**
 - Explore **Artificial Intelligence, Machine Learning** and **Data Science**
 - Gain knowledge about **Web Scrapping**
