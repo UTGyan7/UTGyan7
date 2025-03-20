@@ -1,4 +1,4 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> It's Utkarsh here
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "37px"/> It's Utkarsh here
 > - I'm **Utkarsh Gyan**
 > - Enthusiastic **14 y/o**
 > - Passionate about **Coding** and **AI**
