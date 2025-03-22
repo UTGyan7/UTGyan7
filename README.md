@@ -28,9 +28,9 @@
 
 ## 🏆 Achievements and Projects
 
-- [AI Chatbot (Cloud Scissors)](cloudscisors.streamlit.app) : A Cohere API powered AI Chatbot
+- [AI Chatbot (Cloud Scissors)](https://cloudscisors.streamlit.app) : A Cohere API powered AI Chatbot
 
-- [Web Scrapper](https://github.com/UTGyan/web-scrapper)
+- [Web Scrapper](https://github.com/UTGyan/web-scraper)
   
 - [Email Automation](https://github.com/UTGyan7/Email-Automation)
    
