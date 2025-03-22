@@ -1,6 +1,5 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "40px"/> It's Utkarsh here
 > - I'm **Utkarsh Gyan**
-> - Enthusiastic **14 y/o**
 > - Passionate about **Coding** and **AI**
 > - Currently working on [CloudScissors](https://cloudscisors.streamlit.app)
 ## 🌟 About Me
@@ -29,24 +28,24 @@
 
 ## 🏆 Achievements and Projects
 
-- [Basic Calculator in Python](https://replit.com/@utku210411/Basic-Calculator-in-Python)
-    
-- [Electronic Voting Machine (EVM) with Python](https://github.com/UTGyan7/EVM-with-Python)
-    
-- [Rock Paper Scissors Game](https://github.com/UTGyan7/Rock-Paper-Scissors/blob/main/rock%20paper%20scissors%20game.py)
-    
 - [AI Chatbot (Cloud Scissors)](cloudscisors.streamlit.app) : A Cohere API powered AI Chatbot
+
+- [Web Scrapper](https://github.com/UTGyan/web-scrapper)
+  
+- [Email Automation](https://github.com/UTGyan7/Email-Automation)
+   
+- [Electronic Voting Machine (EVM) with Python](https://github.com/UTGyan7/EVM-with-Python)
+  
+- [And much more!](https://github.com/UTGyan7?tab=repositories)
     
 ## 📚 Courses attended
 
 - [Java Fundamentals by Coddy](https://coddy.tech/courses/java_fundamentals) | [Certificate](https://coddy.tech/certifications/YXgU36-cpiHhr)
-- [100 Days of Code by Replit](https://replit.com/learn/100-days-of-python?from=hub)
 
 ## 📞 Contact Information
 
 - Email: [utku210411@gmail.com](mailto:utku210411@gmail.com)
 - GitHub: https://github.com/UTGyan7
-- Replit: https://replit.com/@utku210411
 
 Thank you for visiting! 
 
