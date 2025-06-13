@@ -30,7 +30,7 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 ## 🚀 My Active Projects
 
-- 🟩 [**CloudCaesar**](https://cloudcaesar.streamlit.app)  
+- 🟩 [**CloudCaesar**](https://github.com/UTGyan7/CloudCaesar)  
   A live AI chatbot using OpenRouter + Streamlit
 
 - 🟩 [Email Automation Tool](https://github.com/UTGyan7/Email-Automation)  
@@ -57,7 +57,7 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 ## 🎯 What’s Next
 
-- Take CloudCaesar to the next level  
+- Take [CloudCaesar](https://cloudcaesar.streamlit.app) to the next level  
 - Start working with real clients
 - Earn my first dollar  
 - Learn deeper ML/Data Science fundamentals  
