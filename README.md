@@ -36,7 +36,7 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 - 🟩 [Email Automation Tool](https://github.com/UTGyan7/Email-Automation)  
   Automate Gmail sending using Python
 
-- 🟩 [Web Scraper](https://github.com/UTGyan/web-scraper)  
+- 🟩 [Web Scraper](https://github.com/UTGyan7/web-scraper) 
   Simple scraper built for speed and clarity
 
 - 🟩 [Voting Machine (Python)](https://github.com/UTGyan7/EVM-with-Python)  
