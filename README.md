@@ -1,51 +1,85 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "40px"/> It's Utkarsh here
-> - I'm **Utkarsh Gyan**
-> - Passionate about **Coding** and **AI**
-> - Currently working on [CloudCaeser](https://cloudcaesar.streamlit.app)
-## 🌟 About Me
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
-- Keen interest in **Coding** and **Artificial Intelligence**
-- Basic understanding of **Python** programming
-- Introductory knowledge of **Java**
-- Aspiring to explore **AI**, **ML** and **Data Science**
+I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships, and learns fast ⚡ 
 
-## 💻 Technical Skills
+---
 
-- **Python**: Basic knowledge
-- **AI** and **ML:** Knows fundamentals
-- **Web Scrapping:** Very basic knowledge and experience
-- **Java**: Introductory understanding
-- Quick learner and **adaptable to new technologies**
+## 🧠 Who I Am
 
-## 🚀 Future Goals
+- Passionate about **AI**, **automation**, and making useful things fast
+- Building [CloudCaesar](https://cloudcaesar.streamlit.app) — an OpenRouter-powered AI chatbot (live now!)
+- Focused on delivering real value through small, sharp projects
+- **Learning by doing, failing fast, and improving quicker**
 
-- Enhance [CloudCaesar](https://cloudcaesar.streamlit.app)
-- Advance skills in **Python and Java programming**
-- Explore **Artificial Intelligence, Machine Learning** and **Data Science**
-- Gain knowledge about **Web Scrapping**
-- Develop **freelancing** skills in the **tech industry**
+> 🎯 Whether it’s a script, a bot, or a weird idea — I build it before overthinking it.
 
-## 🏆 Achievements and Projects
+---
 
-- [AI Chatbot (CloudCaesar)](https://cloudcaesar.streamlit.app) : An [Openrouter](https://openrouter.ai) API powered AI Chatbot
+## 🔨 What I Can Do For You (Yes, You)
 
-- [Web Scrapper](https://github.com/UTGyan/web-scraper)
-  
-- [Email Automation](https://github.com/UTGyan7/Email-Automation)
-   
-- [Electronic Voting Machine (EVM) with Python](https://github.com/UTGyan7/EVM-with-Python)
-  
-- [And much more!](https://github.com/UTGyan7?tab=repositories)
-    
-## 📚 Courses attended
+- ✅ Create tiny **Python tools/scripts**  
+- ✅ Help you set up a **basic AI chatbot with APIs**  
+- ✅ Automate **boring stuff** (emails, scraping, system tasks)  
+- ✅ Explain code / clean up messy scripts  
+- ✅ Build MVPs or demo projects at breakneck speed
 
-- [Java Fundamentals by Coddy](https://coddy.tech/courses/java_fundamentals) | [Certificate](https://coddy.tech/certifications/YXgU36-cpiHhr)
+> 💸 I'm open to **freelance gigs** — even small ones (starting at $1).  
+> Just reach out. Let’s work.
 
-## 📞 Contact Information
+---
 
-- Email: [utku210411@gmail.com](mailto:utku210411@gmail.com)
-- GitHub: https://github.com/UTGyan7
+## 🚀 My Active Projects
 
-Thank you for visiting! 
+- 🔹 [**CloudCaesar**](https://cloudcaesar.streamlit.app)  
+  A live AI chatbot using OpenRouter + Streamlit
 
-I'm excited about the possibilities in technology and look forward to learning and growing in this field.
+- 🔹 [Email Automation Tool](https://github.com/UTGyan7/Email-Automation)  
+  Automate Gmail sending using Python
+
+- 🔹 [Web Scraper](https://github.com/UTGyan/web-scraper)  
+  Simple scraper built for speed and clarity
+
+- 🔹 [Voting Machine (Python)](https://github.com/UTGyan7/EVM-with-Python)  
+  CLI-based simulation, just for fun (and practice)
+
+➡️ [Explore all my builds →](https://github.com/UTGyan7?tab=repositories)
+
+---
+
+## 🛠 Skills & Stack
+
+- **Python** (main), **Java** (learning)  
+- API integration: OpenRouter, Cohere, etc.  
+- Streamlit · Git   
+- Fast with: building, debugging, and adapting
+
+---
+
+## 🎯 What’s Next
+
+- Take CloudCaesar to the next level  
+- Start working with real clients  
+- Learn deeper ML/Data Science fundamentals  
+- Keep building projects 
+- Turn ideas into real products — fast
+
+---
+
+## 📚 Course Completed
+
+- [Java Fundamentals by Coddy](https://coddy.tech/courses/java_fundamentals)  
+  [Certificate](https://coddy.tech/certifications/YXgU36-cpiHhr)
+
+---
+
+## 📬 Contact
+
+📩 Email me: [utku210411@gmail.com](mailto:utku210411@gmail.com)  
+🌐 GitHub: [@UTGyan7](https://github.com/UTGyan7)
+
+> ⚡ I’m available for quick freelance jobs or collaborations.  
+> 🚀 You bring the idea. I’ll make it real.
+
+---
+
+_Moving fast. Learning faster. And having fun in the process._
