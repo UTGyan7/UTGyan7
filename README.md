@@ -58,7 +58,8 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 ## 🎯 What’s Next
 
 - Take CloudCaesar to the next level  
-- Start working with real clients  
+- Start working with real clients
+- Earn my first dollar  
 - Learn deeper ML/Data Science fundamentals  
 - Keep building projects 
 - Turn ideas into real products — fast
