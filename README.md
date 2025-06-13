@@ -1,7 +1,7 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "40px"/> It's Utkarsh here
 > - I'm **Utkarsh Gyan**
 > - Passionate about **Coding** and **AI**
-> - Currently working on [CloudScissors](https://cloudscisors.streamlit.app)
+> - Currently working on [CloudCaeser](https://cloudcaesar.streamlit.app)
 ## 🌟 About Me
 
 - Keen interest in **Coding** and **Artificial Intelligence**
@@ -19,16 +19,15 @@
 
 ## 🚀 Future Goals
 
-- Enhance [CloudScissors](https://cloudscisors.streamlit.app)
+- Enhance [CloudCaesar](https://cloudcaesar.streamlit.app)
 - Advance skills in **Python and Java programming**
 - Explore **Artificial Intelligence, Machine Learning** and **Data Science**
 - Gain knowledge about **Web Scrapping**
-- Learn about **Quantum Computing**
 - Develop **freelancing** skills in the **tech industry**
 
 ## 🏆 Achievements and Projects
 
-- [AI Chatbot (Cloud Scissors)](https://cloudscisors.streamlit.app) : A Cohere API powered AI Chatbot
+- [AI Chatbot (CloudCaesar)](https://cloudcaesar.streamlit.app) : An [Openrouter](https://openrouter.ai) API powered AI Chatbot
 
 - [Web Scrapper](https://github.com/UTGyan/web-scraper)
   
