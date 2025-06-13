@@ -6,7 +6,7 @@
 
 - Keen interest in **Coding** and **Artificial Intelligence**
 - Basic understanding of **Python** programming
-- Beginning to learn **Java**
+- Introductory knowledge of **Java**
 - Aspiring to explore **AI**, **ML** and **Data Science**
 
 ## 💻 Technical Skills
