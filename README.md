@@ -30,16 +30,16 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 ## 🚀 My Active Projects
 
-- 🔹 [**CloudCaesar**](https://cloudcaesar.streamlit.app)  
+- 🟩 [**CloudCaesar**](https://cloudcaesar.streamlit.app)  
   A live AI chatbot using OpenRouter + Streamlit
 
-- 🔹 [Email Automation Tool](https://github.com/UTGyan7/Email-Automation)  
+- 🟩 [Email Automation Tool](https://github.com/UTGyan7/Email-Automation)  
   Automate Gmail sending using Python
 
-- 🔹 [Web Scraper](https://github.com/UTGyan/web-scraper)  
+- 🟩 [Web Scraper](https://github.com/UTGyan/web-scraper)  
   Simple scraper built for speed and clarity
 
-- 🔹 [Voting Machine (Python)](https://github.com/UTGyan7/EVM-with-Python)  
+- 🟩 [Voting Machine (Python)](https://github.com/UTGyan7/EVM-with-Python)  
   CLI-based simulation, just for fun (and practice)
 
 ➡️ [Explore all my builds →](https://github.com/UTGyan7?tab=repositories)
