@@ -6,7 +6,7 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 ## 🧠 Who I Am
 
-- Passionate about **AI**, **automation**, and making useful things fast
+- Passionate about **Web Deevelopment**, **AI**, **automation**, and making useful things fast
 - Building [CloudCaesar](https://cloudcaesar.streamlit.app) — an OpenRouter-powered AI chatbot (live now!)
 - Focused on delivering real value through small, sharp projects
 - **Learning by doing, failing fast, and improving quicker**
@@ -50,17 +50,17 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 - **Python** (main), **Java** (learning)  
 - API integration: OpenRouter, Cohere, etc.  
-- Streamlit · Git   
+- Streamlit  
 - Fast with: building, debugging, and adapting
 
 ---
 
 ## 🎯 What’s Next
 
-- Take [CloudCaesar](https://cloudcaesar.streamlit.app) to the next level  
+- Take [CloudCaesar](https://cloudcaesar.streamlit.app) to the next level
+- Learn **Web Development**🌐
 - Start working with real clients
 - Earn my first dollar  
-- Learn deeper ML/Data Science fundamentals  
 - Keep building projects 
 - Turn ideas into real products — fast
 
