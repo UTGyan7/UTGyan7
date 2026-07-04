@@ -68,8 +68,7 @@ I'm **Utkarsh Gyan** 👨‍💻 a self-taught teen developer who builds, ships,
 
 ## 📚 Course Completed
 
-- [Java Fundamentals by Coddy](https://coddy.tech/courses/java_fundamentals)  
-  [Certificate](https://coddy.tech/certifications/YXgU36-cpiHhr)
+- [Java Fundamentals by Coddy](https://coddy.tech/certifications/YXgU36-cpiHhr)
 
 ---
 
